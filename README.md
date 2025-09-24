@@ -9,4 +9,6 @@
 
 Для создания интерфейса я использовала reflex. Реализация состоит из поля input, которое привязано к AutocompleteState, а также блоков div, которые появляются по условию и реагируют на нажатие.
 
+https://disk.360.yandex.ru/i/nUUSp3vljFbqOQ
+
 ![til](./ScreenRecording2025-09-24at16.05.48-ezgif.com-video-to-gif-converter.gif)
