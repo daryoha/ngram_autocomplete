@@ -1,0 +1,10 @@
+.web
+assets/external/
+*.db
+*.py[cod]
+__pycache__/
+.states
+*.json
+*.csv
+*.pkl
+*.txt
